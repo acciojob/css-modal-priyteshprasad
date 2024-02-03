@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
 .modal{
 	position: absolute;
-	top: -200px;
+	/* top: -200px; */
+	background-color: lightblue;
+	width: 90%;
+	text-align: center;
 }
-.openModal
+.openModal{
+}
